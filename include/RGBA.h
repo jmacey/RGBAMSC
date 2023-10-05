@@ -7,7 +7,6 @@ struct RGBA
     unsigned char g=0;
     unsigned char b=0;
     unsigned char a=255;
-    
 };
 
 #endif
